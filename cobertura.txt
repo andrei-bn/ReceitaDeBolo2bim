@@ -1,0 +1,11 @@
+COBERTURAS:
+chocolate
+mousse limao 
+mousse maracuja 
+mousse morango 
+caramelo 
+ninho 
+brigadeiro
+ovomaltine
+chocolate branco
+sem cobertura
