@@ -9,3 +9,4 @@ brigadeiro
 ovomaltine
 chocolate de ninho
 sem cobertura
+amores
