@@ -1,4 +1,4 @@
-COBERTURAS:git stat
+COBERTURAS:
 chocolate
 mousse limao 
 mousse maracuja 
